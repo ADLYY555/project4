@@ -1,0 +1,43 @@
+.course-btn {
+    display: block;
+    background-color: #2563eb;
+    color: white;
+    text-align: center;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 15px;
+    margin-top: 15px;
+}
+
+.course-btn:hover {
+    background-color: #1d4ed8;
+}
+.playlist-section {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 20px;
+    text-align: center;
+}
+
+.playlist-section h2 {
+    color: #1e293b;
+    margin-bottom: 8px;
+}
+
+.playlist-desc {
+    color: #64748b;
+    margin-bottom: 25px;
+}
+
+.video-wrapper {
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.video-wrapper iframe {
+    border-radius: 8px;
+    display: block;
+}
